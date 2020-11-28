@@ -4,6 +4,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorT314)](https://github.com/VictorT314)
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=VictorT314&show_icons=true&theme=vue)
+
 ### Deixe-me contar um pouco sobre mim =)
 * Idade: 22 anos
 * Experiência: Bootcamp Generation - Desenvolvedo
