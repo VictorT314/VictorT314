@@ -8,4 +8,4 @@
 
 ### About Me
 * Idade: 22 anos
-* Experiência: Bootcamp Generation - Desenvolvedo
+* Experiência: Bootcamp Generation - Desenvolvedor Java Fullstack Junior
